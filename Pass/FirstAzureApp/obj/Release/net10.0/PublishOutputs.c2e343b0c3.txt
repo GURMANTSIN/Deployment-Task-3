@@ -1,0 +1,7 @@
+/Users/gms/Desktop/FirstAzureApp/bin/Release/net10.0/publish/FirstAzureApp
+/Users/gms/Desktop/FirstAzureApp/bin/Release/net10.0/publish/appsettings.Development.json
+/Users/gms/Desktop/FirstAzureApp/bin/Release/net10.0/publish/appsettings.json
+/Users/gms/Desktop/FirstAzureApp/bin/Release/net10.0/publish/FirstAzureApp.dll
+/Users/gms/Desktop/FirstAzureApp/bin/Release/net10.0/publish/FirstAzureApp.deps.json
+/Users/gms/Desktop/FirstAzureApp/bin/Release/net10.0/publish/FirstAzureApp.runtimeconfig.json
+/Users/gms/Desktop/FirstAzureApp/bin/Release/net10.0/publish/FirstAzureApp.pdb
